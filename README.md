@@ -2,9 +2,9 @@
 
 ## Overview
 
-Our team presents a vision for a travel agency that helps tourists visit New York City safely and explore during Covid times. Travel agencies are popular business where travelers, especially those from further away, have an agent with more expierence make their arrangements and plan their trip. This allows for a leaisurely trip without having to worry about planning!
+Our team presents a vision for a travel agency that helps tourists visit New York City safely and explore during Covid times. Travel agencies are popular business where travelers, especially those from further away, have an agent with more experience make their arrangements and plan their trip. This allows for a leisurely trip without having to worry about planning!
 
-We believe that these agencies should rely more on data driven models for their recommendations. Using live data from New York City, it is possible to recommend where to eat, where to be safely and how to interact with the city. We present dashboards that take a creative approach to open New York City data and put it in the eyes of a travel agent or a potentional tourist. 
+We believe that these agencies should rely more on data driven models for their recommendations. Using live data from New York City, it is possible to recommend where to eat, where to be safely and how to interact with the city. We present dashboards that take a creative approach to open New York City data and put it in the eyes of a travel agent or a potential tourist. 
 
 The four tabs presented are a proof of concept, illustrating 
 - Restaurant
